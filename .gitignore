@@ -1,0 +1,7 @@
+ .gitignore
+.idea/
+web/.eslintrc.json
+web/.idea/
+web/.next/
+web/next-env.d.ts
+web/node_modules/
